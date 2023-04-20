@@ -12,7 +12,7 @@ The following **required** functionality is completed:
     Email title
     Email summary
 
-The following **additional** features are implemented:
+The following **optional** features are implemented:
 - [ ] User can press a 'Load More' button to see the next 5 emails displayed
 - [ ] Each email displays additional information:
        - [ ] Picture of the sender
